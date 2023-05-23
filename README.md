@@ -6,8 +6,6 @@ I'm a developer, woodworker, and a student at [Codam Coding College](https://www
 Quotes
 > The only bad thing about Typescript is that it is based on JavaScript
 
-> Values should be constant by default
-
 > A JSON file is an excellent database
 
 > C++ is not a language since “language” implies logic and structure
