@@ -11,6 +11,6 @@ Quotes
 > C++ is not a language because “language” implies logic an structure
 
 
-<!--![stats](https://github-readme-stats.vercel.app/api?username=sirmorfield&theme=dark&show_icons=true) -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmorfield&theme=dark&layout=compact) -->
-<!--![Metrics](https://metrics.lecoq.io/SirMorfield) -->
+![stats](https://github-readme-stats.vercel.app/api?username=sirmorfield&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmorfield&theme=dark&layout=compact)
+![Metrics](https://metrics.lecoq.io/SirMorfield)
