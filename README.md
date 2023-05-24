@@ -1,9 +1,11 @@
 ### The professional amateur, Joppe "The Joptimizer" Koers
 
-Site -> [joppekoers.nl](https://joppekoers.nl)\
+Website is [joppekoers.nl](https://joppekoers.nl)\
+LinkedIn is [here](https://www.linkedin.com/in/joppekoers)\
+Codam projects are [here](https://github.com/42-jkoers)
+
 I'm a developer, woodworker, and a student at [Codam Coding College](https://www.codam.nl/en/)
 
-If you're looking for my Codam projects click [here](https://github.com/42-jkoers)
 
 Quotes
 > The only bad thing about Typescript is that it is based on JavaScript
