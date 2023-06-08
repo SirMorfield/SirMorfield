@@ -26,4 +26,4 @@ My languages, most used first
 	<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirmorfield&theme=dark&count_private=true&show_icons=true&number_format=long&hide_title=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sirmorfield&theme=dark&count_private=true&show_icons=true&number_format=long&hide_title=true&hide_rank=true&disable_animations=true" height="150"/>
