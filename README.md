@@ -4,8 +4,7 @@ Website is [joppekoers.nl](https://joppekoers.nl)\
 LinkedIn is [here](https://www.linkedin.com/in/joppekoers)\
 Codam projects are [here](https://github.com/42-jkoers)
 
-I'm a developer, woodworker, and a student at [Codam Coding College](https://www.codam.nl/en/)
-
+I'm a freelance developer and woodworker
 
 Quotes
 > The only bad thing about Typescript is that it is based on JavaScript
