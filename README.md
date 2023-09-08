@@ -1,4 +1,4 @@
-### The professional amateur, Joppe "The Joptimizer" Koers
+### Joppe "The Joptimizer" Koers
 
 Website is [joppekoers.nl](https://joppekoers.nl)\
 LinkedIn is [here](https://www.linkedin.com/in/joppekoers)\
