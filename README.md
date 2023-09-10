@@ -14,25 +14,6 @@ Quotes
 > C++ is not a language since “language” implies logic and structure
 
 My languages
-<p align="left">
-	<a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/React_(web_framework)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Svelte" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-plain.svg" alt="svelte" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-	<a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/Redis" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/Nginx" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg " alt="nginx" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/Express.js" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-	<a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
-</p>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,c,cpp,docker,react,rust,go,svelte,bash,python,linux,redis,nginx,postgres,express,tailwind,arduino,bash,cloudflare,css,discord,figma,gcp,git,github,githubactions,html,js,kubernetes,sqlite,mysql,nestjs,ps,planetscale,postman,raspberrypi,sketchup,vercel,vite,vscode,vue,webpack" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=sirmorfield&theme=dark&count_private=true&show_icons=true&number_format=long&hide_title=true&hide_rank=true&disable_animations=true" height="150"/>
