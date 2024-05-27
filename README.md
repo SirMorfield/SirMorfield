@@ -4,7 +4,7 @@ Website is [joppekoers.nl](https://joppekoers.nl)\
 LinkedIn is [here](https://www.linkedin.com/in/joppekoers)\
 Codam projects are [here](https://github.com/42-jkoers)
 
-I'm a (freelance) developer and woodworker
+I'm a fullstack (freelance) developer and woodworker
 
 My languages and tools
 
